@@ -10,8 +10,8 @@
 
 ### Day 2: August 27, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Played with some JS and CSS to create a clock.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I always catch myself tripping over the tiniest "bugs" like misspellings and punctuations. I definitely need to work on that. Overall I'm still pushing towards improvements.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Clock](https://suspicious-varahamihira-9ee2ad.netlify.com)
