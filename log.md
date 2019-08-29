@@ -15,3 +15,11 @@
 **Thoughts**: I always catch myself tripping over the tiniest "bugs" like misspellings and punctuations. I definitely need to work on that. Overall I'm still pushing towards improvements.
 
 **Link(s) to work**: [Clock](https://suspicious-varahamihira-9ee2ad.netlify.com)
+
+### Day 3: August 28, 2019
+
+**Today's Progress**: Learned some interesting CSS + some git commands.
+
+**Thoughts**: I'm starting to get familiar with CSS and the devtools. I was able to configure the sizes of the frame, blur and color. I would say thats pretty decent for an hour.
+
+**Link(s) to work**: [CSS Var](https://dazzling-swartz-afa85f.netlify.com)
