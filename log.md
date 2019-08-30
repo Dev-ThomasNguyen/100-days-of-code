@@ -23,3 +23,11 @@
 **Thoughts**: I'm starting to get familiar with CSS and the devtools. I was able to configure the sizes of the frame, blur and color. I would say thats pretty decent for an hour.
 
 **Link(s) to work**: [CSS Var](https://dazzling-swartz-afa85f.netlify.com)
+
+### Day 4: August 29, 2019
+
+**Today's Progress**: Today I've decided to work on some fundamental JS, Array Methods.
+
+**Thoughts**: I always thought Array methods were tedious. Worked on a bunch of Array exercises to get familiar with them. The following were Filter, Map, Sort, Reduce and a few other. Doing a bunch of repetitive exercises does help my Array phobia. Cheers to that.
+
+**Link(s) to work**: [None]()
