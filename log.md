@@ -31,3 +31,11 @@
 **Thoughts**: I always thought Array methods were tedious. Worked on a bunch of Array exercises to get familiar with them. The following were Filter, Map, Sort, Reduce and a few other. Doing a bunch of repetitive exercises does help my Array phobia. Cheers to that.
 
 **Link(s) to work**: [None]()
+
+### Day 5: August 30, 2019
+
+**Today's Progress**: Topic for today was Api.
+
+**Thoughts**: I've always struggled with creating one from scratch, let alone working with one. I started off tinkering with making HTTP requests, then customizing it, following up with handling errors. After that I did repetitions of callback functions. It's overwhelming at first, but I'm slowly easing into it.
+
+**Link(s) to work**: [None]()
