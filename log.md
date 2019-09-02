@@ -39,3 +39,19 @@
 **Thoughts**: I've always struggled with creating one from scratch, let alone working with one. I started off tinkering with making HTTP requests, then customizing it, following up with handling errors. After that I did repetitions of callback functions. It's overwhelming at first, but I'm slowly easing into it.
 
 **Link(s) to work**: [None]()
+
+### Day 6: August 31, 2019
+
+**Today's Progress**: Callback Abstraction exercises and Callback Chaining.
+
+**Thoughts**: Did some repetitions with callback abstraction and chaining. I must say, it's still out of my comfort zone. Each day I am improving with it nonetheless. Also managed to get the weather search working.
+
+**Link(s) to work**: [None]()
+
+### Day 7: September 1, 2019
+
+**Today's Progress**: Flex panel image gallery.
+
+**Thoughts**: Continued working on some CSS and Js creating a flex panel. It was fairly easy getting familiar with it. I must confess, I'm still getting caught up with simple syntax errors.
+
+**Link(s) to work**: [Flex Panel](https://agitated-visvesvaraya-18c196.netlify.com)
