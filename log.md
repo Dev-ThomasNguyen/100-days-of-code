@@ -55,3 +55,19 @@
 **Thoughts**: Continued working on some CSS and Js creating a flex panel. It was fairly easy getting familiar with it. I must confess, I'm still getting caught up with simple syntax errors.
 
 **Link(s) to work**: [Flex Panel](https://agitated-visvesvaraya-18c196.netlify.com)
+
+### Day 7: September 2, 2019
+
+**Today's Progress**: ES6 Object Property Shorthand and Destructuring
+
+**Thoughts**: Honestly I don't know how I feel about this one, considering it's Node.js, I need more practice with this.
+
+**Link(s) to work**: [none]()
+
+### Day 7: September 3, 2019
+
+**Today's Progress**: Ajax Search
+
+**Thoughts**: This little challenge right here allowed me to fiddle with Json data. Basically matching your word search with the data and highlighting it. There was a lot more Javascript than I thought, but it was a great exercise.
+
+**Link(s) to work**: [Ajax Search](https://blissful-khorana-ae5b31.netlify.com)
