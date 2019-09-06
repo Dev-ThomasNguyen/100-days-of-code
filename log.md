@@ -56,7 +56,7 @@
 
 **Link(s) to work**: [Flex Panel](https://agitated-visvesvaraya-18c196.netlify.com)
 
-### Day 7: September 2, 2019
+### Day 8: September 2, 2019
 
 **Today's Progress**: ES6 Object Property Shorthand and Destructuring
 
@@ -64,10 +64,26 @@
 
 **Link(s) to work**: [none]()
 
-### Day 7: September 3, 2019
+### Day 9: September 3, 2019
 
 **Today's Progress**: Ajax Search
 
 **Thoughts**: This little challenge right here allowed me to fiddle with Json data. Basically matching your word search with the data and highlighting it. There was a lot more Javascript than I thought, but it was a great exercise.
 
 **Link(s) to work**: [Ajax Search](https://blissful-khorana-ae5b31.netlify.com)
+
+### Day 10: September 4, 2019
+
+**Today's Progress**: Express, HTML, Static Assets, and Dynamic Pages with Templating.
+
+**Thoughts**: This is a side project I'm working on for a weather app. I installed Express, which is an awesome framework for web and mobile. Created static assets and rendered it to multiple html pages. The project is half way there and I'm currently using Node.js for it.
+
+**Link(s) to work**: [none]()
+
+### Day 11: September 5, 2019
+
+**Today's Progress**: Array exercises
+
+**Thoughts**: I did nothing but array exercises for today. Doing so does help me think of other ways to solve it and execute a lot faster.
+
+**Link(s) to work**: [none]()
