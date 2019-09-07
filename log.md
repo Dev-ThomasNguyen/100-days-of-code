@@ -87,3 +87,11 @@
 **Thoughts**: I did nothing but array exercises for today. Doing so does help me think of other ways to solve it and execute a lot faster.
 
 **Link(s) to work**: [none]()
+
+### Day 12: September 6, 2019
+
+**Today's Progress**: HTML and CSS
+
+**Thoughts**: Continuing where I left off with my side project. I'm fairly confident with Html and Css. Today I add a 404 page, customize my header and footer. Made some adjustments with the styling and reuse some code. Next, I'll tinker with the API.
+
+**Link(s) to work**: [none]()
