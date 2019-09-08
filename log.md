@@ -95,3 +95,11 @@
 **Thoughts**: Continuing where I left off with my side project. I'm fairly confident with Html and Css. Today I add a 404 page, customize my header and footer. Made some adjustments with the styling and reuse some code. Next, I'll tinker with the API.
 
 **Link(s) to work**: [none]()
+
+### Day 13: September 7, 2019
+
+**Today's Progress**: Customizing API
+
+**Thoughts**: I've always thought making your own API would be difficult. The one I'm creating for my side project is going well. I've only implemented query strings for error handling. Next will be building a JSON HTTP endpoint.
+
+**Link(s) to work**: [none]()
