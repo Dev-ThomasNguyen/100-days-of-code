@@ -103,3 +103,11 @@
 **Thoughts**: I've always thought making your own API would be difficult. The one I'm creating for my side project is going well. I've only implemented query strings for error handling. Next will be building a JSON HTTP endpoint.
 
 **Link(s) to work**: [none]()
+
+### Day 14: September 8, 2019
+
+**Today's Progress**: Building HTTP endpoint, HTTP requests with Fetch
+
+**Thoughts**: Testing a few things with HTTP endpoint and request. Made some adjustments for efficient functions. Although, I am lacking in advance functions. That, I definitely need to work on.
+
+**Link(s) to work**: [none]()
