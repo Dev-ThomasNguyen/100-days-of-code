@@ -111,3 +111,19 @@
 **Thoughts**: Testing a few things with HTTP endpoint and request. Made some adjustments for efficient functions. Although, I am lacking in advance functions. That, I definitely need to work on.
 
 **Link(s) to work**: [none]()
+
+### Day 15: September 9, 2019
+
+**Today's Progress**: HTML Canvas
+
+**Thoughts**: Even though the title is HTML, it has more Javascript in it. This piece is similar to the paint app that you find in every computer. It consist of a bunch of styles I can hardly remember. Overall it was fun experimenting on the functions, width, height, stroke style and more. Looking forward to other concepts.
+
+**Link(s) to work**: [HTML Canvas](https://priceless-neumann-959862.netlify.com)
+
+### Day 16: September 10, 2019
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link(s) to work**: [none]()
